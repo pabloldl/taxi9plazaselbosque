@@ -1,0 +1,38 @@
+{
+  "widths": [
+    {
+      "width": 375,
+      "scrollWidth": 360,
+      "broken": [],
+      "fonts": true,
+      "missingAnchors": 0
+    },
+    {
+      "width": 768,
+      "scrollWidth": 753,
+      "broken": [],
+      "fonts": true,
+      "missingAnchors": 0
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1425,
+      "broken": [],
+      "fonts": true,
+      "missingAnchors": 0
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1905,
+      "broken": [],
+      "fonts": true,
+      "missingAnchors": 0
+    }
+  ],
+  "errors": [],
+  "telephones": true,
+  "copy": "Número copiado: 615 548 570",
+  "clipboard": "read permission unavailable",
+  "fallback": true,
+  "reducedMotion": true
+}
